@@ -10,10 +10,10 @@ targets:
     mode: development
     default: true
     workspace:
-      host: https://fe-vm-vdm-classic-hf57ks.cloud.databricks.com
+      host: https://dbc-ce3610c0-5688.cloud.databricks.com/
 
   ## Optionally, there could be 'staging' or 'prod' targets here.
   #
   # prod:
   #   workspace:
-  #     host: https://fe-vm-vdm-classic-hf57ks.cloud.databricks.com
+  #     host: https://dbc-ce3610c0-5688.cloud.databricks.com/
